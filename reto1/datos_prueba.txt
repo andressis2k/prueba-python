@@ -1,0 +1,36 @@
+1
+andres
+perez
+7
+6
+8
+1
+pepe
+perez
+6
+7
+8
+1
+juan alberto
+mignorance
+7
+8
+9
+1
+andres luis
+lopez
+5
+7
+9
+1
+jose maria
+alvarez
+5
+6
+5
+1
+francisco Javier
+lopez
+3
+7
+4
